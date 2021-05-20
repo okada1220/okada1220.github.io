@@ -1,0 +1,60 @@
+/*上部*/
+header {
+    background-color: aqua;
+    color:blue;
+    height: 90px;
+}
+
+.header-title {
+    font-size: 20px;
+    padding: 20px;
+    float: left;
+}
+
+.header-sub-title li {
+    list-style: none;
+    float: left;
+    padding: 20px 40px;
+}
+
+/*中部*/
+main {
+    height: 600px;
+}
+
+#profile-title {
+    font-size: 40px;
+}
+
+.profile p {
+    font-size: 20px;
+}
+
+.profile img {
+    border-radius: 50%;
+    height: 140px;
+    width: 140px;
+    border: 3px solid black;
+}
+
+#history-title {
+    color:#0000ff;
+    font-size: 20px;
+    padding: 0px 20px;
+    border-bottom: 1px solid #333;
+    margin-bottom: 20px;
+}
+
+.history-contents a {
+    color:black;
+}
+
+/*下部*/
+footer {
+    background-color:gray;
+    height: 270px;
+}
+
+.footer-contents {
+    padding: 20px;
+}
