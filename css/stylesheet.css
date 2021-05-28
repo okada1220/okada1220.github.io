@@ -3,6 +3,7 @@ header {
     background-color: aqua;
     color:blue;
     height: 90px;
+    margin: 0 auto;
 }
 
 .header-title {
@@ -19,7 +20,8 @@ header {
 
 /*中部*/
 main {
-    height: 600px;
+    height: 800px;
+    margin: 0 auto;
 }
 
 #profile-title {
@@ -52,7 +54,8 @@ main {
 /*下部*/
 footer {
     background-color:gray;
-    height: 270px;
+    height: 10%;
+    margin: 0 auto;
 }
 
 .footer-contents {
